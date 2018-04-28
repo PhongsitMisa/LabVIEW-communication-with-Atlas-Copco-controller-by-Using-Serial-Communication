@@ -14,9 +14,10 @@ In this example, I also attached LabVIEW project that inclued by VIs following t
 - LabVIEW code for open port.
 - LabVIEW code for access and get a worked result.
 - LabVIEW code for close port.
-- LabVIEW code that combined Open->Access->Close 
 
 You can specify what is the value that you would like to get by using "String subset" in LabVIEW and you can also adjust offset and lenght of string to get your wanted value.
 The table in page 136 will help you about data selecting, and config Sting subset at offset and lenght.
 
 PS. Please make sure that you open port before you are tightening.
+
+if you have any comment, please drop me your comment. Thank you.
